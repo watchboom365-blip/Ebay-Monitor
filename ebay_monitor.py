@@ -23,14 +23,14 @@ from datetime import datetime
 #  НАСТРОЙКИ — ЗАПОЛНИ ЭТО
 # ============================================================
 
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН_БОТА"   # от @BotFather
-TELEGRAM_CHAT_ID = "ВАШ_CHAT_ID"    # от @userinfobot
+TELEGRAM_TOKEN = "8723010638:AAFYkdY1TcAN4iNWo3BXFKWZp2uoYiMBfTI"   # от @BotFather
+TELEGRAM_CHAT_ID = "1618321073"    # от @userinfobot
 
 # Ссылки на листинги eBay (можно добавлять сколько угодно)
 LISTINGS = [
-    "https://www.ebay.com/itm/ВСТАВЬ_ССЫЛКУ_1",
-    "https://www.ebay.com/itm/ВСТАВЬ_ССЫЛКУ_2",
-    # "https://www.ebay.com/itm/...",
+    "https://www.ebay.com/itm/366298371227?_skw=audemars+piguet+box&itmmeta=01KMGZYXBVQM5N46DA6MFBGNAT&hash=item554915949b:g:r1sAAeSwT3FpHlNw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCMzJoCEaf4ipjz0NKHZ%2FliO4v%2BmmuBRkUb9KLbgBJ4S7H8Mg4Uj%2FIm5JhrqrBmPpSpPf50bgef8ne0cUz1wuQvHDiM%2F6e8aHF2kdMz0tLCuc2UFVzgEv5pt0QiZAiszJr%2BFwwW%2F0hIcHne0%2FLLurAJNvcox8dPRPxPIaxPnc6fNNDHe4c2b9X9EvNjnT8WJqABqVmCB4ju%2BK%2BwYdwILSQxYO5KpY6WMQTyX1%2FsPFa43xGtxqKj%2F2AHaUCj3wJ0CCL7Fjzijgq7U0tCBrF8%2FqBbHDUW69EAk4H8bI0YHi9wyw%3D%3D%7Ctkp%3ABFBMjNb7n6Rn",
+    "https://www.ebay.com/itm/366293770029?itmmeta=01KMGZZQWW6J9C4PFNRS67SX5Y&hash=item5548cf5f2d:g:SWEAAOSw9QhoXcjD",
+    # "https://www.ebay.com/itm/366293774209?itmmeta=01KMGZZQWWBCYJ1FE58YEKRMR9&hash=item5548cf6f81:g:5a8AAeSwlv9pil4o",
 ]
 
 CHECK_INTERVAL_MINUTES = 15   # как часто проверять (в минутах)
