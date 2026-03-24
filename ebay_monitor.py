@@ -15,7 +15,7 @@ LISTINGS = [
     "https://www.ebay.com/itm/406787859959",
 ]
 
-CHECK_INTERVAL_MINUTES = 15
+CHECK_INTERVAL_MINUTES = 5
 STATE_FILE = "ebay_state.json"
 
 HEADERS = {
