@@ -9,8 +9,10 @@ TELEGRAM_TOKEN = "8723010638:AAFYkdY1TcAN4iNWo3BXFKWZp2uoYiMBfTI"
 TELEGRAM_CHAT_ID = "1618321073"
 
 LISTINGS = [
-    "https://www.ebay.com/itm/366298371227",
     "https://www.ebay.com/itm/366293770029",
+    "https://www.ebay.com/itm/366298371227",
+    "https://www.ebay.com/itm/366293774209",
+    "https://www.ebay.com/itm/406787859959",
 ]
 
 CHECK_INTERVAL_MINUTES = 15
